@@ -1,4 +1,4 @@
-# analisa-data-telko
+# telecommunication
 Tempat ngoprek dan ngulik data telko
 Author: Teguh Dayanto
         ig. @tgh.dayanto
