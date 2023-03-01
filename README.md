@@ -1,10 +1,11 @@
 # telecommunication
-Tempat ngoprek dan ngulik data telko
-Author: Teguh Dayanto
-        ig. @tgh.dayanto
-        fb. @tgh.dayanto
 
-1. Korelasi RSRP, SINR, TX POWER
-dataset : lte_dt_meas.csv
-codingan: lte_dt_meas.ipynb
+Folder ini berisi contoh-contoh coding python dalam bidang telekomunikasi.
+Author: Teguh Dayanto
+        ig. @teguh.dayanto
+
+Korelasi RSRP, SINR, TX POWER
+code: lte_dt_meas.ipynb
+dataset: lte_dt_meas.csv
+
 
